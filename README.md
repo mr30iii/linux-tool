@@ -2,8 +2,8 @@
 
 Automatic hacking tools installer for Android [ONLY FOR TERMUX]
 
+# CREDIT BY
 ```
-CREDIT BY
     ____  ___       _____
    / __ \/   |     / /   |
   / /_/ / /| |__  / / /| |
